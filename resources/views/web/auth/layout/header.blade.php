@@ -1,6 +1,6 @@
 <div class="container">
 	<div class="header">
-		<span class="header-title">白沙皇宫</span>
+		<span class="header-title">传奇亚洲</span>
 	</div>
 </div>
 
